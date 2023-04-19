@@ -41,7 +41,7 @@ sections:
           location: Москва
           date_start: '2022-01-01'
           date_end: '2022-12-12'
-          description: Ассистировал дизайнеру Вадиму Мерлису, помогал создавать коллекции и проводить показы. В числе показов - Московская неделя моды 2022, Four Seasons Fasion Week 2022.
+          description: Ассистировал дизайнеру Вадиму Мерлису, помогал создавать коллекции и проводить показы. В числе показов - Московская неделя моды 2022,  Seasons Fashion Week 2022.
     design:
       columns: '2'
   - block: accomplishments
@@ -70,8 +70,12 @@ sections:
           date_end: ''
           date_start: '2022-03-03'
           description: Победитель научно-технической конференции "Наука для жизни", направление "Многообразие науки", секция "Информационные технологии. Программирование. Кибернетика"
-          organization: Департамент образования и науки города Москвы и Министерство науки и высшего образования Российской Федерации 
+          organization: Департамент образования и науки города Москвы 
+          organization_url: https://www.mos.ru/donm/
+          organization: Министерство науки и высшего образования Российской Федерации 
           organization_url: https://minobrnauki.gov.ru/
+          organization: ГБОУ ГМЦ ДОНМ
+          organization_url: https://mosmetod.ru/
           title: Умный контроллер системы отопления частного дома
           url: ''
           
@@ -79,8 +83,10 @@ sections:
           date_end: ''
           date_start: '2022-03-03'
           description: Призер научно-технической конференции "Инженеры будущего", направление "ИТ", секция "Программирование"
-          organization: Департамент образования и науки города Москвы и ГБОУ ГМЦ ДОНМ
+          organization: Департамент образования и науки города Москвы
           organization_url: https://www.mos.ru/donm/
+          organization: ГБОУ ГМЦ ДОНМ
+          organization_url: https://mosmetod.ru/
           title: Умный контроллер системы отопления частного дома
           url: ''
     design:
